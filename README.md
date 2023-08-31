@@ -1,4 +1,3 @@
-# WeaterApp
 # Weather App
 
 The Weather App is a simple web application that allows users to check the weather information for a specific location using data from the OpenWeatherMap API.
